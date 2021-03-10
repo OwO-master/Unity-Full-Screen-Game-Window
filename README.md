@@ -1,4 +1,4 @@
-# Unity-Game-Window-FullScreen  
+# Unity-Full-Screen-Game-Window
 ### ///Disclaimer///  
 The code only tested on Unity 2020.2.4f1  
 Use at your own risk!  

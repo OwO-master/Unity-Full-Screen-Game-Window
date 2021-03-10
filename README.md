@@ -9,9 +9,6 @@ The code only tested on Unity 2020.2.4f1
 File:  
 >Assets/cmdow/cmdow.cs  
 >Assets/cmdow/cmdow.exe  
->
-Download cmdow.exe by ritchielawrence  
-https://ritchielawrence.github.io/cmdow/
   
 ![UGWFS_PIC2.png](/UGWFS_PIC2.png)  
 1. PANIK! (Shift+F12)  
